@@ -61,4 +61,4 @@ Few things with basic Kubernetes objects. //TODO
 
 ## Hands-on Helm
 
-The power of helm using the [Helm hub](https://hub.helm.sh).
+The power of helm using the [Helm hub](https://hub.helm.sh). //TODO
